@@ -11,7 +11,7 @@ last_name: Gonzalez-Auhing
 
 # Status emoji
 status:
-  icon: 
+  icon: 📈
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,7 +25,7 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a passionate economist with a solid background in academia, research, and public sector management. At the Ministry of Economy and Finance, I played a key role in the development of green financial tools such as the Sovereign Green Bonds Framework, climate labeling, and initial steps towards green taxonomy. Additionally, I have extensive experience in handling large databases, including information from Ecuador’s Social Registry, data from Ecuadorian companies, and the Colombian electric sector. My expertise spans research using DSGE and CGE models, and the use of Machine Learning for macroeconomic forecasts. I possess advanced skills in Python, Spark, and SQL/PostgreSQL, and I have led teams as a Technical General Coordinator and National Director of Real Sector Policies.
+bio: I am a passionate economist with a  background in academia, research, and public sector. At the Ministry of Economy and Finance, I played a key role in the development of green financial tools. Additionally, I have extensive experience in handling large databases. My expertise spans research using DSGE and CGE models, and the use of Machine Learning for macroeconomic forecasts. I possess advanced skills in Python, Spark, and SQL/PostgreSQL, and I have led teams as a Technical General Coordinator and National Director of Real Sector Policies.
 
 # Interests to show in About widget
 interests:
@@ -52,13 +52,13 @@ skills:
   - name: Technical
     items:
       - name: Python
-        description: 'Prueba texto 1 de Python  Prueba texto 1 de Python '
-        percent: 
+        description: 'I have used Python like my principal programming language since I was the middle of my undergraduate degree (2018). I use Python for Data Sciences, Machine Learning, and Econometrics.  '
+        percent: 90
         icon: python
         icon_pack: fab
-      - name: SQL/Postgresql
+      - name: SQL/PostgreSQL
         description: 'Prueba texto 2 de BdD  Prueba texto 1 de Python'
-        percent: 
+        percent: 80
         icon: database
         icon_pack: fas
 
@@ -96,5 +96,4 @@ social:
 highlight_name: true
 ---
 
-I am a passionate economist with a solid background in academia, research, and public sector management. At the Ministry of Economy and Finance, I played a key role in the development of green financial tools such as the Sovereign Green Bonds Framework, climate labeling, and initial steps towards green taxonomy. Additionally, I have extensive experience in handling large databases, including information from Ecuador’s Social Registry, data from Ecuadorian companies, and the Colombian electric sector. My expertise spans research using DSGE and CGE models, and the use of Machine Learning for macroeconomic forecasts. I possess advanced skills in Python, Spark, and SQL/PostgreSQL, and I have led teams as a Technical General Coordinator and National Director of Real Sector Policies.
-{style="text-align: justify;"}
+Marcos González-Auhing isa passionate economist with a  background in academia, research, and public sector.{style="text-align: justify;"}
