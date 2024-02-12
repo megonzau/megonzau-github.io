@@ -62,19 +62,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: National Director of Real Sector Policies
+          company: Ministry of Economy and Finance
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: MEF
+          location: Quito
+          date_start: '2022-11-23'
+          date_end: '2023-12-18'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Prepare economic policy proposals for the real sector.
+              * Coordinate the development of climate finance instruments.
+              * Develop newsletters and current situation reports for the Real Sector.
+              * Prepare reports for the monitoring and execution of Social Spending
+
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
@@ -83,6 +85,16 @@ sections:
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
+
+         - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics. 
+
     design:
       columns: '2'
   - block: accomplishments
