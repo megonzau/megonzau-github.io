@@ -57,7 +57,7 @@ skills:
         icon: python
         icon_pack: fab
       - name: SQL/PostgreSQL
-        description: 'Prueba texto 2 de BdD  Prueba texto 1 de Python'
+        description: 'I have used SQL and Postgres for the management of large databases such as the database of the Social Registry of Ecuador, Ecuadorian companies and information on the Colombian electricity market.'
         percent: 80
         icon: database
         icon_pack: fas
