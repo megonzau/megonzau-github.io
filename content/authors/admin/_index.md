@@ -25,7 +25,7 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a passionate economist with a  background in academia, research, and public sector. At the Ministry of Economy and Finance, I played a key role in the development of green financial tools. Additionally, I have extensive experience in handling large databases. My expertise spans research using DSGE and CGE models, and the use of Machine Learning for macroeconomic forecasts. I possess advanced skills in Python, Spark, and SQL/PostgreSQL, and I have led teams as a Technical General Coordinator and National Director of Real Sector Policies.
+bio: Marcos Gonzalez-Auhing is a passionate economist with a  background in academia, research, and public sector. At the Ministry of Economy and Finance, I played a key role in the development of green financial tools. Additionally, I have extensive experience in handling large databases. My expertise spans research using DSGE and CGE models, and the use of Machine Learning for macroeconomic forecasts. 
 
 # Interests to show in About widget
 interests:
@@ -97,4 +97,4 @@ social:
 highlight_name: true
 ---
 
-I am a passionate economist with a  background in academia, research, and public sector. At the Ministry of Economy and Finance, I played a key role in the development of green financial tools. Additionally, I have extensive experience in handling large databases. My expertise spans research using DSGE and CGE models, and the use of Machine Learning for macroeconomic forecasts. I possess advanced skills in Python, Spark, and SQL/PostgreSQL, and I have led teams as a Technical General Coordinator and National Director of Real Sector Policies.
+I am a passionate economist with a  background in academia, research, and public sector. At the Ministry of Economy and Finance, I played a key role in the development of green financial tools. Additionally, my expertise spans research using DSGE and CGE models, and the use of Machine Learning for macroeconomic forecasts. 
