@@ -56,6 +56,7 @@ skills:
         percent: 90
         icon: python
         icon_pack: fab
+
       - name: SQL/PostgreSQL
         description: 'I have used SQL and Postgres for the management of large databases such as the database of the Social Registry of Ecuador, Ecuadorian companies and information on the Colombian electricity market.'
         percent: 80
@@ -96,4 +97,4 @@ social:
 highlight_name: true
 ---
 
-Marcos González-Auhing isa passionate economist with a  background in academia, research, and public sector.{style="text-align: justify;"}
+I am a passionate economist with a  background in academia, research, and public sector. At the Ministry of Economy and Finance, I played a key role in the development of green financial tools. Additionally, I have extensive experience in handling large databases. My expertise spans research using DSGE and CGE models, and the use of Machine Learning for macroeconomic forecasts. I possess advanced skills in Python, Spark, and SQL/PostgreSQL, and I have led teams as a Technical General Coordinator and National Director of Real Sector Policies.
