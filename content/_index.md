@@ -80,7 +80,7 @@ sections:
         - title: General Technical Coordinator
           company: Social Registry Unit
           company_url: 'https://www.registrosocial.gob.ec/'
-          company_logo: URS
+          company_logo: 
           location: Quito - Ecuador
           date_start: '2021-03-16'
           date_end: '2022-10-16'
@@ -94,7 +94,7 @@ sections:
         - title: Advisor to the Executive Board
           company: Social Registry Unit
           company_url: 'https://www.registrosocial.gob.ec/'
-          company_logo: URS
+          company_logo: 
           location: Quito - Ecuador
           date_start: '2021-09-21'
           date_end: '2022-03-15'
@@ -108,7 +108,7 @@ sections:
         - title: Teaching assistant
           company: EAFIT University
           company_url: 'https://www.eafit.edu.co/'
-          company_logo: EAFIT
+          company_logo: 
           location: Medellín - Colombia
           date_start: '2021-05-01'
           date_end: '2022-06-15'
@@ -122,7 +122,7 @@ sections:
         - title: Assistant professor
           company: EAFIT University
           company_url: 'https://www.eafit.edu.co/'
-          company_logo: EAFIT
+          company_logo: 
           location: Medellín - Colombia
           date_start: '2021-03-01'
           date_end: '2022-06-15'
@@ -136,7 +136,7 @@ sections:
         - title: Research assistant
           company: EAFIT University
           company_url: 'https://www.eafit.edu.co/'
-          company_logo: EAFIT
+          company_logo: 
           location: Medellín - Colombia
           date_start: '2020-02-01'
           date_end: '2021-06-15'
@@ -150,7 +150,7 @@ sections:
         - title: Research assistant 
           company: Escuela Superior Politécnica del Litoral (ESPOL University)
           company_url: 'https://www.espol.edu.ec/es'
-          company_logo: EAFIT
+          company_logo: 
           location: Guayaquil - Ecuador
           date_start: '2019-05-15'
           date_end: '2020-01-15'
