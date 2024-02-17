@@ -152,8 +152,8 @@ sections:
           company_url: 'https://www.espol.edu.ec/es'
           company_logo: EAFIT
           location: Guayaquil - Ecuador
-          date_start: '2019-05'
-          date_end: '2020-01'
+          date_start: '2019-05-15'
+          date_end: '2020-01-15'
           description: |2-
               Responsibilities include:
 
