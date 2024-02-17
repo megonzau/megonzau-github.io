@@ -36,6 +36,9 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
+
+
+        
   - block: about.biography
     id: about
     content:
@@ -43,7 +46,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   
-  
+  # SKILLS
   
   - block: skills
     content:
@@ -52,7 +55,7 @@ sections:
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
-      columns: '2'
+      columns: '1'
   
   
   # EXPERIENCE
