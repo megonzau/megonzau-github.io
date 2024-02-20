@@ -352,9 +352,9 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Talk things over a cup of coffee
       # Contact (add or remove contact options as necessary)
-      email: marcosgonza.eau@gamil.com
+      email: marcosgonza.eau@gmail.com
       phone: 
       appointment_url: 
       address:
@@ -369,7 +369,7 @@ sections:
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '-0.188718'
-        longitude: '--78.482163'  
+        longitude: '-78.482163'  
       contact_links:
         # - icon: twitter
         #   icon_pack: fab
@@ -384,10 +384,10 @@ sections:
         #   name: Zoom Me
         #   link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: true
+      autolink: false
       # Email form provider
       form:
-        provider: netlify
+        provider: 
         formspree:
           id:
         netlify:
