@@ -151,7 +151,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Ongoing Learning'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -161,15 +161,18 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
+
+        - certificate_url: https://github.com/megonzau/megonzau-github.io/blob/main/Diploma%20U%20Chile.pdf
+          date_end: '2022-12'
+          date_start: '2022-09'
+          description: 'The Diploma is taught at the Pontificia Universidad Católica, in Santiago, Chile, by J-PAL affiliated professors and academics at UC. The program consists of three courses: Impact evaluation methods, Evidence and policy, and Implementation of an impact evaluation.'
+          icon: 
+          organization: Pontificia Universidad Católica de Chile ‑ JPAL 
+          organization_url: https://educacioncontinua.uc.cl/
+          title: Diploma in Impact Assessment of Programs and Public Policies
+          url: 'https://www.povertyactionlab.org/page/diploma-impact-evaluation-public-policy-and-social-programs?lang=fr'
+
+
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
