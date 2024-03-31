@@ -173,15 +173,17 @@ sections:
           url: 'https://www.povertyactionlab.org/page/diploma-impact-evaluation-public-policy-and-social-programs?lang=fr'
 
 
-        - certificate_url: https://www.edx.org
+        - certificate_url: 
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
+          description: In this edition, we study a microeconomic approach. In particular, we will put emphasis on Climate-Smart Agriculture (CSA), which encompasses different agricultural practices that aim to sustainably increase productivity, enhance resilience, and reduce greenhouse gases (GHG) emissions.
+          icon: 
+          organization: EAFIT University 
+          organization_url: https://www.eafit.edu.co/
           title: Summer School of the Economics of Climate Change and Climate Policy
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          url: 
+
+          
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
