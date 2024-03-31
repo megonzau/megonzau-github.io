@@ -181,7 +181,7 @@ sections:
           organization: EAFIT University 
           organization_url: https://www.eafit.edu.co/
           title: Summer School of the Economics of Climate Change and Climate Policy
-          url: https://github.com/megonzau/megonzau-github.io/blob/main/content/authors/admin/Summer%20School%20-%20Climate%20Change.pdf
+          url: 'https://github.com/megonzau/megonzau-github.io/blob/main/content/authors/admin/Summer%20School%20-%20Climate%20Change.pdf'
 
           
 
