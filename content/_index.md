@@ -173,9 +173,9 @@ sections:
           url: 'https://www.povertyactionlab.org/page/diploma-impact-evaluation-public-policy-and-social-programs?lang=fr'
 
 
-        - certificate_url: 
-          date_end: 'https://github.com/megonzau/megonzau-github.io/blob/main/content/authors/admin/Diploma%20Summer%20CSA.pdf'
-          date_start: '2021-01-01'
+        - certificate_url: https://github.com/megonzau/megonzau-github.io/blob/main/content/authors/admin/Diploma%20Summer%20CSA.pdf
+          date_end: '2021-06-18'
+          date_start: '2021-06-07'
           description: In this edition, we study a microeconomic approach. In particular, we will put emphasis on Climate-Smart Agriculture (CSA), which encompasses different agricultural practices that aim to sustainably increase productivity, enhance resilience, and reduce greenhouse gases (GHG) emissions.
           icon: 
           organization: EAFIT University 
