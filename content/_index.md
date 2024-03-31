@@ -162,7 +162,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
-        - certificate_url: https://github.com/megonzau/megonzau-github.io/blob/main/Diploma%20U%20Chile.pdf
+        - certificate_url: https://github.com/megonzau/megonzau-github.io/blob/main/content/authors/admin/Diploma%20U%20Chile.pdf
           date_end: '2022-12'
           date_start: '2022-09'
           description: 'The Diploma is taught at the Pontificia Universidad Católica, in Santiago, Chile, by J-PAL affiliated professors and academics at UC. The program consists of three courses: Impact evaluation methods, Evidence and policy, and Implementation of an impact evaluation.'
