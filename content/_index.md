@@ -163,8 +163,8 @@ sections:
       items:
 
         - certificate_url: https://github.com/megonzau/megonzau-github.io/blob/main/content/authors/admin/Diploma%20U%20Chile.pdf
-          date_end: '2022-12'
-          date_start: '2022-09'
+          date_end: '2022-12-03'
+          date_start: '2022-09-26'
           description: 'The Diploma is taught at the Pontificia Universidad Católica, in Santiago, Chile, by J-PAL affiliated professors and academics at UC. The program consists of three courses: Impact evaluation methods, Evidence and policy, and Implementation of an impact evaluation.'
           icon: 
           organization: Pontificia Universidad Católica de Chile ‑ JPAL 
