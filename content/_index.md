@@ -169,7 +169,7 @@ sections:
           icon: 
           organization: Pontificia Universidad Católica de Chile ‑ JPAL 
           organization_url: https://educacioncontinua.uc.cl/
-          title: Diploma in Impact Assessment of Programs and Public Policies
+          title: Diploma in Impact Evaluation of Public Policy and Social Programs
           url: 'https://www.povertyactionlab.org/page/diploma-impact-evaluation-public-policy-and-social-programs?lang=fr'
 
 
@@ -180,7 +180,7 @@ sections:
           icon: edx
           organization: edX
           organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          title: Summer School of the Economics of Climate Change and Climate Policy
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
