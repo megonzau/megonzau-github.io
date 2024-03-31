@@ -25,7 +25,7 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Marcos Gonzalez-Auhing is a passionate economist with a background in academia, research, and public sector. His interests include evaluating economics impacts of environmental policies using DSGE and CGE models, predicting macroeconomic variables with Machine Learning, handling large databases, developing green financial tools and public policies.  He has served in the Ecuadorian public sector as Technical General Coordinator and National Director of Real Sector Policies
+bio: Marcos Gonzalez-Auhing is a passionate economist with a background in academia, research, and public sector. His interests include evaluating economics impacts of social and environmental policies, using DSGE and CGE models, developing and using Machine Learning models, handling large databases, developing green financial tools and public policies. He has served in the Ecuadorian public sector as Technical General Coordinator and National Director of Real Sector Policies.
 
 # Interests to show in About widget
 interests:
@@ -70,7 +70,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: https://megonzau.github.io/megonzau-github.io/#contact
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
