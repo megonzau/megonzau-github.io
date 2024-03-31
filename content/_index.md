@@ -174,25 +174,17 @@ sections:
 
 
         - certificate_url: 
-          date_end: ''
+          date_end: 'https://github.com/megonzau/megonzau-github.io/blob/main/content/authors/admin/Diploma%20Summer%20CSA.pdf'
           date_start: '2021-01-01'
           description: In this edition, we study a microeconomic approach. In particular, we will put emphasis on Climate-Smart Agriculture (CSA), which encompasses different agricultural practices that aim to sustainably increase productivity, enhance resilience, and reduce greenhouse gases (GHG) emissions.
           icon: 
           organization: EAFIT University 
           organization_url: https://www.eafit.edu.co/
           title: Summer School of the Economics of Climate Change and Climate Policy
-          url: 
+          url: https://github.com/megonzau/megonzau-github.io/blob/main/content/authors/admin/Summer%20School%20-%20Climate%20Change.pdf
 
           
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+
     design:
       columns: '2'
 
